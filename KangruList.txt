@@ -1,0 +1,162 @@
+ID: 0_1
+Owner: Kangru
+Name: Playstation
+Price: $300
+Quantity: 9
+Discount: N/A
+
+ID: 0_2
+Owner: Kangru
+Name: Xbox
+Price: $280
+Quantity: 34
+Discount: N/A
+
+ID: 0_3
+Owner: Kangru
+Name: Pipe
+Price: $30
+Quantity: 8
+Discount: N/A
+
+ID: 0_4
+Owner: Kangru
+Name: Smart Wireless Charger
+Price: $1.78
+Quantity: 12
+Discount: N/A
+
+ID: 0_5
+Owner: Kangru
+Name: Earpod i12
+Price: $4
+Quantity: 35
+Discount: N/A
+
+ID: 0_6
+Owner: Kangru
+Name: Portable Air Conditioner
+Price: $379
+Quantity: 8
+Discount: N/A
+
+ID: 0_7
+Owner: Kangru
+Name: String lights
+Price: $28
+Quantity: 43
+Discount: N/A
+
+ID: 0_8
+Owner: Kangru
+Name: Wrist Watches
+Price: $169
+Quantity: 64
+Discount: N/A
+
+ID: 0_9
+Owner: Kangru
+Name: Backpack
+Price: $21
+Quantity: 35
+Discount: N/A
+
+ID: 0_10
+Owner: Kangru
+Name: Hole saw
+Price: $69
+Quantity: 6
+Discount: N/A
+
+ID: 0_11
+Owner: Kangru
+Name: Highlight stick
+Price: $17
+Quantity: 53
+Discount: N/A
+
+ID: 0_12
+Owner: Kangru
+Name: Concealor
+Price: $27
+Quantity: 8
+Discount: N/A
+
+ID: 0_13
+Owner: Kangru
+Name: Canvas Pack
+Price: $139
+Quantity: 13
+Discount: N/A
+
+ID: 0_14
+Owner: Kangru
+Name: Bluetooth Speakers
+Price: $129
+Quantity: 46
+Discount: N/A
+
+ID: 0_15
+Owner: Kangru
+Name: Gamepad
+Price: $76
+Quantity: 4
+Discount: N/A
+
+ID: 0_16
+Owner: Kangru
+Name: Smart plug
+Price: $36
+Quantity: 34
+Discount: N/A
+
+ID: 0_17
+Owner: Kangru
+Name: Vaccum cleaner
+Price: $449
+Quantity: 67
+Discount: N/A
+
+ID: 0_18
+Owner: Kangru
+Name: Umbrella
+Price: $38
+Quantity: 8
+Discount: N/A
+
+ID: 0_19
+Owner: Kangru
+Name: Phone stand
+Price: $8
+Quantity: 12
+Discount: N/A
+
+ID: 0_20
+Owner: Kangru
+Name: Hand dryer
+Price: $235
+Quantity: 32
+Discount: N/A
+
+ID: 0_24
+Owner: Kangru
+Name: Banana
+Price: $2
+Quantity: 300
+Discount: N/A
+
+ID: 0_25
+Owner: Kangru
+Name: Carpet
+Price: $325
+Quantity: 4
+Discount: N/A
+
+ID: 0_27
+Owner: Kangru
+Name: Controller
+Price: $40
+Quantity: 10
+Discount: N/A
+
+
